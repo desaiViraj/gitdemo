@@ -1,0 +1,3 @@
+Use git checkout -f
+#this will revert changes to last commit
+
